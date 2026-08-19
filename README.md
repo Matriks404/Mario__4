@@ -1,3 +1,12 @@
+Mario/4
+========
+
+A modified version of FullScreenMario with fixed 960 px level width (60 tiles), or 1920 px with default scaling, effectively meaning that only the entire level fits in only what would be considered 4 normal level screens of the usual game (hence the name **Mario/4**, well I hope the math is right...).
+
+So far only 1-1 level have been completed.
+
+![3.5Mario](Screenshots/1.png)
+
 FullScreenMario
 ===============
 
